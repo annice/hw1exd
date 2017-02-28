@@ -13,7 +13,7 @@ private ArrayList<String> events = new ArrayList<String>();
 		events.add("Study session on Sunday - Jim's house");
 	}
 	public void upcomingEvents() {
-		System.out.println("Upcoming Events");
+		System.out.println("Please join us!");
 		for (String event : events)
 			System.out.println(event);
 	}
