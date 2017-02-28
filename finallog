@@ -1,0 +1,72 @@
+commit f5f096106b15bb0f971494687e5de73f022cad14
+Merge: 9841649 cad70e2
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:19:19 2017 -0800
+
+    Merge branch 'moreEvents'
+    
+    Merged moreEvents after updating "Join Us"
+
+commit cad70e247aabee237fd45aaefce2e566c6073d04
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:18:43 2017 -0800
+
+    More friendly events
+
+commit 98416492bf88ea5c53e42186898195c1dd156a6f
+Merge: 9391825 cbfad8b
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:17:00 2017 -0800
+
+    Merge branch 'moreEvents'
+
+commit 93918257c800be4868f1cba6f4e0cd9ac93a6922
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:16:47 2017 -0800
+
+    Different event
+
+commit cbfad8befbd9e48bf04948cbd316564433396c4c
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:15:08 2017 -0800
+
+    Add multiple events
+
+commit 2e928e6cbc3e68d373ca0fd107be910971189b28
+Merge: 5e39240 403d375
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:10:41 2017 -0800
+
+    Merge branch 'addEvents'
+    
+    Merged addEvents to master
+
+commit 5e3924035d84affac9186cca88a444882e45d323
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:07:25 2017 -0800
+
+    New thought for the day
+
+commit 403d375e000109d7cdac8a660f940a871b4b3f42
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:06:50 2017 -0800
+
+    Refined events
+
+commit 02f88fb852e03b0b699d016ceefc61c9991a5616
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:04:49 2017 -0800
+
+    Added events
+
+commit eef4e0475a7a9003d3f239f1b58ba90bf86b1100
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:00:53 2017 -0800
+
+    Refactored fnOne
+
+commit 9cc3eba6db8b724bec1c928604bef85cb0da468c
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:00:17 2017 -0800
+
+    Initial

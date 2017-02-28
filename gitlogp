@@ -1,0 +1,28 @@
+commit f5f096106b15bb0f971494687e5de73f022cad14
+Merge: 9841649 cad70e2
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:19:19 2017 -0800
+
+    Merge branch 'moreEvents'
+    
+    Merged moreEvents after updating "Join Us"
+
+commit cad70e247aabee237fd45aaefce2e566c6073d04
+Author: Annice Mathew <annsays1@gmail.com>
+Date:   Tue Feb 28 09:18:43 2017 -0800
+
+    More friendly events
+
+diff --git a/SomeClass.java b/SomeClass.java
+index e464824..e704667 100644
+--- a/SomeClass.java
++++ b/SomeClass.java
+@@ -13,7 +13,7 @@ private ArrayList<String> events = new ArrayList<String>();
+ 		events.add("Study session on Sunday - Jim's house");
+ 	}
+ 	public void upcomingEvents() {
+-		System.out.println("Upcoming Events");
++		System.out.println("Please join us!");
+ 		for (String event : events)
+ 			System.out.println(event);
+ 	}

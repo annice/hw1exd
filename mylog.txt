@@ -1,0 +1,17 @@
+*   Merge branch 'moreEvents'
+|\  
+| * More friendly events
+* |   Merge branch 'moreEvents'
+|\ \  
+| |/  
+| * Add multiple events
+* | Different event
+|/  
+*   Merge branch 'addEvents'
+|\  
+| * Refined events
+| * Added events
+* | New thought for the day
+|/  
+* Refactored fnOne
+* Initial
